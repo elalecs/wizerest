@@ -20,3 +20,5 @@ To test:
     ```
     make test
     ```
+
+The .env file are in the repo on purpose to be able to run the repo
