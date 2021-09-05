@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SaluteTest::testUnslashToken":3,"SaluteTest::testSaluteMessage":5,"\/var\/www\/tests\/SaluteTest.php::asserts":3},"times":{"SaluteTest::testUnslashToken":0.047,"SaluteTest::testSaluteMessage":0.562,"\/var\/www\/tests\/ExampleTest.php::example":0.009,"\/var\/www\/tests\/SaluteTest.php::asserts":3.149}}
